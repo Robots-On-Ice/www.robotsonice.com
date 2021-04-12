@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "SVISA"
 categories: facts
 tags: [sample]
 image: cuba-4.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+[SVISA](https://www.siliconvalleyskates.org) is a nonprofit organization dedicated to fostering ice skating in the Silicon Valley community.
+
+Inspired by the star-studded Olympic history of Silicon Valley’s ice skating community, we know that accessible recreation is essential aspect of vibrant communities.

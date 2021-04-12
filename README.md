@@ -254,14 +254,12 @@ This theme is completely free and open source software. You may use it however y
 
 * [Font Awesome](http://fontawesome.io/)
 
-### Other
-
-* [Jekyll](https://jekyllrb.com/)
-
-* [Free Code Camp](https://www.freecodecamp.org)
-
-* [Khan Academy](https://www.khanacademy.org/)
 
 ## License
 
 Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+
+
+## Notes
+
+ghrocker debug + bundle install && bundle exec jekyll serve -w

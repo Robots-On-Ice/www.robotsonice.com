@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Robos On Ice"
+title:		           "Robots On Ice"
 description:	       "A home for Robots on Ice"
 author:              "Silicon Valley Ice Skating Association"
 

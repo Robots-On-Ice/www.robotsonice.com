@@ -10,3 +10,7 @@
 ### Join the RC car race!
 
 Sign up to race with one of our cars, or build your own and bring it to the rink.
+
+### [Propose an Activity](call-for-activities.hml)
+
+## [Location](location.html)

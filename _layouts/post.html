@@ -44,6 +44,9 @@ layout: default
     </div>
   </div>
 
+{% comment %}
+Disabling related posts as we don't have any cross links.
+
   <div class="related">
     <h2>{{ site.data.settings.related_posts }}</h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -73,6 +76,8 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+
+{% endcomment %}
 
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}

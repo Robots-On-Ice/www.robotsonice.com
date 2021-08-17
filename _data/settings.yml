@@ -19,7 +19,7 @@ menu:
 social:
 - {icon: 'twitter', link: 'https://twitter.com/_svisa'}
 - {icon: 'youtube', link: 'https://www.youtube.com/channel/UCzxe9kHHylE2AEXUisur-xQ'}
-#- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'facebook', link: 'https://www.facebook.com/RobotsOnIce/'}
 - {icon: 'instagram', link: 'https://instagram.com/siliconvalleyiceskating'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}

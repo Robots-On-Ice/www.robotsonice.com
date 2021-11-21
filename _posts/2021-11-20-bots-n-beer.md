@@ -12,6 +12,8 @@ After you've spent the day hanging out by the rink with robots, join us at [Off 
 
 We'll hang out and talk about the day, what's happening in robotics in general around the bay and beyond. Any topic in robotics is welcome!
 
+We'll head over there at 3pm as the event wraps up and expect to be there for a couple of hours.
+
 Your wristband for the event will get you a discounted drink. And if you purchase the [Bots & Beer ticket](https://www.eventbrite.com/e/robots-on-ice-2021-tickets-191480642757) we'll be buying some pitchers.
 
 Off the Rails also offers hot beverages and food in case you want to warm up too.

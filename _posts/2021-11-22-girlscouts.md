@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Girl Scouts Roboics Badging Event"
+title: "Girl Scouts Robotics Badging Event"
 author: "SVISA"
 categories: documentation
 tags: [documentation,event]

@@ -5,6 +5,7 @@ author: "SVISA"
 categories: documentation
 tags: [documentation,event]
 image: kcbs.png
+'2022': true
 ---
 
 Robots on Ice was featured on KCBS. [Listen on Audacy](https://www.audacy.com/kcbsradio/news/local/sunnyvale-robots-on-ice-aims-to-save-local-rinks-teach-stem)

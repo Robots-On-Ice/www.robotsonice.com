@@ -23,4 +23,4 @@ If you have a creative idea that doesn’t fit into any of these categories plea
 
 If you’d like to bring a robot please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfC0Xqd97vw_ePcQR9Ab8LeUJTCHd2kPGvdM5a0p_zp9qf7EQ/viewform?usp=sf_link).
 
-Or if you have any questions - please send those to: robotsoniceteam@gmail.com 
+Or if you have any questions - please send those to: robotsoniceteam2023@googlegroups.com

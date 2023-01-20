@@ -17,9 +17,6 @@ The Robots on Ice is a unique event that unifies tech with the world of ice. You
  * You make an ideal sponsor if you would like to hop aboard and be a pioneer on the frontier of the technology industry.
  * You or your organization have one or more robot and/or novel technology which you would like to enter into one or more of our events. Proposals for additional activities or challenges are also welcome.
 
-We have 5 different levels of sponsorship available.
 
-### Please take a look at [our prospectus](/assets/pdf/Robots On Ice 2021 Sponsorship Prospectus.pdf) to see how to support this event.
-
-If you'd like to talk about something not listed you're welcome to [reach out to us directly](mailto:contact@siliconvalleyskates.org).
+If you'd like to support the event please [reach out to us directly](mailto:contact@siliconvalleyskates.org).
 

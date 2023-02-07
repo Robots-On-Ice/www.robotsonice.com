@@ -19,7 +19,8 @@ description:	       "A home for Robots on Ice"
 author:              "Silicon Valley Ice Skating Association"
 
 collections:
- - archive_2021
+  archive_2021:
+    output: true
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

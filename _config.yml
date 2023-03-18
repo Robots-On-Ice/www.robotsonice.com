@@ -21,7 +21,8 @@ author:              "Silicon Valley Ice Skating Association"
 collections:
   archive_2021:
     output: true
-
+  archive_2023:
+    output: true
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml

@@ -12,7 +12,7 @@ Have fun exploring low friction environments with robots.
 
 ### Call for Robots
 
-We are looking for roboticists to join us at [Winterlodge](https://winterlodge.com/) to show off their robots. 
+We are looking for roboticists to join us at [Yerba Buena Ice Skating & Bowling Center in San Francisco](https://www.skatebowl.com) to show off their robots. 
 
 The goal is to have fun and highlight some of the challenges of the low friction environment as well as entertain the spectators who are watching. Robotic performances or demonstrations can also be considered if they will be of interest to attendees to watch. 
 
@@ -20,7 +20,6 @@ There will be space near the ice surface where robots can be showcased when they
 
 If you have a creative idea that doesn’t fit into any of these categories please reach out to us and we can work with you to see if we can make it work for the event.
 
+If you’d like to bring a robot please fill out [this form](https://bit.ly/robots-on-ice-4-robots).
 
-If you’d like to bring a robot please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfC0Xqd97vw_ePcQR9Ab8LeUJTCHd2kPGvdM5a0p_zp9qf7EQ/viewform?usp=sf_link).
-
-Or if you have any questions - please send those to: robotsoniceteam2023@googlegroups.com
+Or if you have any questions - please send those to: [robots-on-ice-team-2024@googlegroups.com](mailto:robots-on-ice-team-2024@googlegroups.com)

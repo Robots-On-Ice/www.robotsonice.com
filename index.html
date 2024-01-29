@@ -2,3 +2,6 @@
 layout: home
 title: Home
 ---
+
+{% capture source %}{% include_relative _posts/2024-01-29-robots-on-ice-2024.md %}{% endcapture %}
+{{ source | split: "---" | last }}

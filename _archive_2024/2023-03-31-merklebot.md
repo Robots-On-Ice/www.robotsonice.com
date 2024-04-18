@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Merklebot's Spot"
+title: "Robot: Merklebot's Spot"
 author: "SVISA"
 categories: robot
 tags: [robot]

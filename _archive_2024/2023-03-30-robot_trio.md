@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robot Trio"
+title: "Performance: Robot Trio"
 author: "SVISA"
 categories: performance
 tags: [performance]
